@@ -7,7 +7,7 @@ A simple Flutter app showcasing how to use the `Row` and `Padding` widgets effec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/wenebifid/rows_padding
+   git clone https://github.com/wenebifid/rows_padding.git
    cd rows_padding
    
 Run the app:
