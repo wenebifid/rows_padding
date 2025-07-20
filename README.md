@@ -12,8 +12,9 @@ A simple Flutter app showcasing how to use the `Row` and `Padding` widgets effec
    
 Run the app:
 
-bash
+```bash
 flutter run
+```
 
  ## Key Attributes 
 Row:
